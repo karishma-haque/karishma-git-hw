@@ -1,0 +1,3 @@
+char* karishma(){
+    return “karishma”;
+}
